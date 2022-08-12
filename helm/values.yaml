@@ -10,7 +10,7 @@ application:
 replicaCount: 1
 
 image:
-  repository: mypractice.azurecr.io
+  repository: spring12345.azurecr.io
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "v1"
